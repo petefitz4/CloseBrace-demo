@@ -1,0 +1,12 @@
+{
+  "name": "ClosebraceDemo",
+  "version": "1.0",
+  "description": "Demo from Closebrace video series",
+  "main": "index.js",
+  "repository": "https://github.com/petefitz4/Codebreak-demo.git",
+  "author": "petefitz4 <petefitz4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "map-reverse": "^1.0.1"
+  }
+}
